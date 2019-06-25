@@ -5,8 +5,9 @@
 - 欢迎访问 www.hoehub.com 一起学习讨论
 
 #### 我修改后的爱心气泡效果
+- 预览地址:www.aihanyan.com
 
-
+#### 原效果
 - fireworks+anime喷墨效果
 
 ![fireworks+anime](fireworks+anime.gif)
