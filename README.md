@@ -6,6 +6,8 @@
 
 #### 我修改后的爱心气泡效果
 - 预览地址:www.aihanyan.com
+- 效果展示
+![](https://github.com/XueMeijing/img/blob/master/imgs/as.gif)
 
 #### 原效果
 - fireworks+anime喷墨效果
