@@ -1,4 +1,11 @@
 ### Typecho博客炫彩鼠标插件`HoerMouse`
+#####原作者
+- Email:`i@hoehub.com`
+- 欢迎访问 www.hoehub.com 一起学习讨论
+
+- 我修改后的爱心气泡效果
+
+
 - fireworks+anime喷墨效果
 
 ![fireworks+anime](fireworks+anime.gif)
@@ -16,9 +23,6 @@
 - 文件夹名改为`HoerMouse`
 - 登录管理后台，激活插件
 
-#### 联系作者
-- Email:`i@hoehub.com`
-- 欢迎访问 www.hoehub.com 一起学习讨论
 
 ### 许可证 License
 
