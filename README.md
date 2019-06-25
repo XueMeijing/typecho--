@@ -1,9 +1,10 @@
 ### Typecho博客炫彩鼠标插件`HoerMouse`
-#####原作者
+#### 原作者
+- 作者的源码在码云上，不方便下载，于是我就修改了下传到这里了
 - Email:`i@hoehub.com`
 - 欢迎访问 www.hoehub.com 一起学习讨论
 
-- 我修改后的爱心气泡效果
+#### 我修改后的爱心气泡效果
 
 
 - fireworks+anime喷墨效果
