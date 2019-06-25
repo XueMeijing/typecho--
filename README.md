@@ -27,6 +27,8 @@
 - 文件夹名改为`HoerMouse`
 - 登录管理后台，激活插件
 
+#### 致谢
+大傻逼：https://github.com/sunkxs
 
 ### 许可证 License
 
